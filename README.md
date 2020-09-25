@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://live.staticflickr.com/3927/32594055403_722be0e5e1_h.jpg)
+
 <!--
 **azer/azer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
