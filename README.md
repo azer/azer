@@ -3,7 +3,6 @@
 - 👋 Hi there, this is Azer. I'm,
 - 👶 father of [Fuji](https://kodfabrik.com/photo/50260394251),
 - 👫 partner of [Nova](https://novatogatorop.com/).
-- 💼 I work for HiPeople. [We're hiring](https://github.com/hipeople/hiring)!
 - 🦉 [A public notebook](https://github.com/azer/notebook) documents what my mind goes through.
 
 
