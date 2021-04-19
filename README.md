@@ -1,8 +1,8 @@
 
 
-- 👋 Hi there, this is Azer. I'm,
-- 👶 father of [Fuji](https://kodfabrik.com/photo/50260394251),
-- 👫 partner of [Nova](https://novatogatorop.com/).
+- 👋 Hi there, this is Azer. 
+- 👶 Father of [Fuji](https://kodfabrik.com/photo/50260394251),
+- 👫 Partner of [Nova](https://novatogatorop.com/).
 - 🦉 [A public notebook](https://github.com/azer/notebook) documents what my mind goes through.
 
 
